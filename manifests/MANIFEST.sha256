@@ -1,0 +1,20 @@
+# ESWA supplementary — sha256  bytes  path
+60c9bdd905fcf45ac485c680d32e9773962cf061b6f041dcddd033911558a672        29  .gitignore
+0bbdbc364b8295f866e657e99376c4362e52dc0863e5879d99009ac243e0cd94      1307  CITATION.cff
+91867051ca262133832f269dc187ef2931d525b69e23be0451d4762cd4082576      1116  LICENSE
+8801792fc3b3f30c2f767b5a61e4b4566fd44f46ead640f4e2a6730839691cdb      4717  README.md
+38049c5b11f024ec21b1b6dfd25339b939237a2d97ff347c2948a361ad7a847b      4315  code/make_audit_figure.py
+4c07e007e68b908395b080010727c1254a9d7660a97698845bc4546e03f1f08d      2038  code/make_figure.py
+b6a1d8cd02d9440ab537cc59c225332b2b83f7ce93130245f33acb1271da5327      2890  code/reproduce_tables.py
+d764a36cd6c5f8faeaead6eb7691feb7662cee25489c8a5b63bfd6394ecfe3b0      6108  code/wema_arms.py
+b2ec36649583f5382d967b395ff5cb86bc94c3907a968a33cf411252c90f5cfa      1725  manifests/portfolio_run_manifest.csv
+18bffb849cdf625026ef282f46d4d97273c871085a9554d4529187a8b3a45987       448  reproduce.sh
+c2b1ff1b8cfc9229c120f27d1dfbf72cea81784a02213dbb6f59d893a4d43d5e       301  results/LICENSE-DATA
+3ba80f353b6fc4a3fb2b87ef07937a7432090394e4fca05818cd33a4c257d9f1       873  results/e1_cap_medians.csv
+533c66e010cb48787cc5f47bb69894ddaec1d626bee78d19863552b59082ae10       359  results/e1_temporal_check.csv
+3f0039b93e3fcf3116b2f62f391df0b78f41a5de01f9ae38e8e4d53c541a67d3      1136  results/e1_temporal_check_holds.csv
+eec03e489726c6ffd895960a75b6bd7d448e72c91d31e81b3b744352509d6e9f       468  results/e3_phase_counts.csv
+9266c3a2e64bf1769f203a2c2f11a57deda729f55f76cfb1ce8c9c79b70e0453    200483  results/fig_retention.png
+d06329f8cf96e1e9594513efdf3d105befa0459f506d84c0081c3e9fbc9e8dab      3798  results/wema_all_cells.csv
+399b6012724b6b4ff34ff9796baf26ef8dc08f0cb01c636a989034173e4263f8      2886  results/wema_archive_cells.csv
+3f79a49f3ec027ca3363cad88258ca9f38aaeacce900dbf48ad1cbf88f439cc3      6326  results/wema_freqkey_sensitivity.csv
